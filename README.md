@@ -31,10 +31,5 @@ Se utiliza Cross Validation con 10 folds.
 
 Se obuvó un accuracy de 94,41% +/- 1,59%
 
-	              true 0	  true 1	  class precision
-pred. 0	        1007	    24	      97.67%
-pred. 1 	      15	      39	      72.22%
-class recall	  98.53%	  61.90%	
-
 
 
