@@ -28,7 +28,7 @@ Los atribtuos de cada uno son:
 <li>symptom6 - Síntoma</li>
 </ul>
 
-El objetivo es determinar para un paciente si muere de covid o no. Para esto el atributo objetivo es death. Se va a utilizar un modelo de Gradient Boosted Trees para el modelo en RapidMiner.
+El objetivo es determinar para un paciente si falleció de covid o no. Para esto el atributo objetivo es death. Se va a utilizar un modelo de Gradient Boosted Trees para el modelo en RapidMiner.
 Se utiliza Cross Validation con 10 folds.
 
 Se obuvó un accuracy de 94,41% +/- 1,59%
