@@ -1,7 +1,7 @@
 # Caso-de-estudio-Covid19-RPM
 
 
-Para este trabajo se usó un dataset obtenido de https://github.com/Atharva-Peshkar/Covid-19-Patient-Health-Analytics el cual cuenta con un .csv con los datos de pacientes de covid19.
+Para este trabajo se usó un dataset obtenido de https://github.com/Atharva-Peshkar/Covid-19-Patient-Health-Analytics el cual cuenta con un .csv (data.csv) con los datos de pacientes de covid19.
 Este dataset fue obtenido originalmente de Kagle: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset. 
 
 La base de datos cuenta con información de casos de covid19 en pacientes de diferentes paises. 
