@@ -31,7 +31,7 @@ Los atribtuos de cada uno son:
 El objetivo es determinar para un paciente si falleció de covid o no. Para esto el atributo objetivo es death. Se va a utilizar un modelo de Gradient Boosted Trees para el modelo en RapidMiner.
 Se utiliza Cross Validation con 10 folds.
 
-Se obuvó un accuracy de 94,41% +/- 1,59%
+Se obuvó un accuracy de 96,41% +/- 1,59%. La precisión para la clase 0 (no falleció) fue de 97.67% y para la clase 1 (falleció) fue menor 72.22%. En cuanto al recall, hubo una diferencia aún mayor entre clases, siendo 98.53% para la clase 0 y 61.90 para la clase 1.
 
 
 
